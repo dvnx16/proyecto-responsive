@@ -1,2 +1,1 @@
-# proyecto-responsive
-Proyecto final de diseño responsivo
+# week2-rd-responsive-hw-starter
